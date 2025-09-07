@@ -30,4 +30,4 @@ Contributions are welcome! Please follow the [Doc Template](templates/) and [Aut
 ---
 
 ## 📜 License
-[MIT](LICENSE) — free to use, share, and adapt with attribution.  
+[MIT](LICENSE) - free to use, share, and adapt with attribution.  
