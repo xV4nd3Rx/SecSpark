@@ -23,3 +23,11 @@
 ---
 
 ## 📂 Repository Structure
+
+## 🤝 Contributing
+Contributions are welcome! Please follow the [Doc Template](templates/) and [Authoring Guidelines](CONTRIBUTING.md).  
+
+---
+
+## 📜 License
+[MIT](LICENSE) — free to use, share, and adapt with attribution.  
