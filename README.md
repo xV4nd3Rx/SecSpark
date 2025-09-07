@@ -1,8 +1,8 @@
 # 🔐 SecSpark
 
-> **SecSpark** is a pocket reference for **security engineers, red teamers, and CISOs** - a curated set of  
+> **SecSpark** is a pocket reference for **security engineers, SOC analysts, penetration testers, red teamers, and CISOs** - a curated set of  
 > cheatsheets, playbooks, checklists, and templates to speed up day-to-day security work.  
-> (*Pentesting, Red teaming, hardening, governance, risk, compliance, DevSecOps*).
+> (*Pentesting, Red teaming, hardening, SOC, governance, risk, compliance.*).
 
 ---
 
@@ -16,7 +16,6 @@
 - Pentest & Red Teaming  
 - SOC & Security Engineering  
 - Governance & Risk  
-- Automation & DevSecOps  
 
 ## 📝 Format
 - Markdown with **consistent metadata and structure**  
