@@ -1,6 +1,7 @@
-# 🔐 SecSpark
+# 🔐 SecSpark [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> **SecSpark** is a pocket reference for **security engineers, penetration testers, red teamers, and CISOs** - a curated set of cheatsheets, playbooks, checklists, and templates to speed up day-to-day security work
+> **SecSpark** is a pocket reference for **security engineers, red teamers, and CISOs** — a curated set of  
+> cheatsheets, playbooks, checklists, and templates to speed up day-to-day security work  
 > (*pentesting, hardening, governance, risk, compliance, DevSecOps*).
 
 ---
