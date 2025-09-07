@@ -37,8 +37,6 @@ SecSpark covers the daily needs across the spectrum: **Pentesting, Red Teaming, 
 
 ## 📂 Repository Structure
 
-```text
-secspark/
 └─ 🛡️ Pentest-Methodology/           # Structured penetration testing workflow
    ├─ 🔎 reconnaissance.md           # Information gathering & OSINT
    └─ 📡 enumeration.md              # Network & service enumeration
