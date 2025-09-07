@@ -37,6 +37,21 @@ SecSpark covers the daily needs across the spectrum: **Pentesting, Red Teaming, 
 
 ## 📂 Repository Structure
 
+### ⚙️ Platforms
+Guides & references for specific environments:
+- 🐧 **linux.md** — Linux essentials for security engineers  
+- 🪟 **windows.md** — Windows & Active Directory quick reference  
+- ☁️ **cloud.md** — AWS / GCP / Azure security notes  
+- 📱 **mobile.md** — iOS / Android security notes  
+
+---
+
+### 🛡️ Pentest Methodology
+Structured penetration testing workflow:
+
+- 🔎 **reconnaissance.md** — Information gathering & OSINT  
+- 📡 **enumeration.md** — Network & service enumeration
+
 ## 🤝 Contributing
 Contributions are welcome! Please follow the [Doc Template](templates/) and [Authoring Guidelines](CONTRIBUTING.md).  
 
