@@ -14,6 +14,7 @@
 ## 🌍 Scope
 - Web / Mobile / Infra / Cloud  
 - Pentest & Red Teaming  
+- SOC & Security Engineering  
 - Governance & Risk  
 - Automation & DevSecOps  
 
