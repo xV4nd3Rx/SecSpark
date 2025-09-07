@@ -43,7 +43,7 @@ secspark
     ├── 🔎 reconnaissance.md      # Information gathering & OSINT
     └── 📡 enumeration.md         # Network & service enumeration
 
-```text
+```
 
 ## 🤝 Contributing
 Contributions are welcome! Please follow the [Doc Template](templates/) and [Authoring Guidelines](CONTRIBUTING.md).  
